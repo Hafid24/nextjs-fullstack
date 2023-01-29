@@ -8,6 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "license": "MIT",
+  "homepage": "YOUR_REPOSITORY_HERE",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "dependencies": {
     "@next/font": "13.1.5",
     "@types/node": "18.11.18",
